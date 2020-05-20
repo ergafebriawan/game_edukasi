@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/pembuka.unity
+    guid: 3b6c7a1f93f4aa44096968d72ed977fc
+  - enabled: 1
+    path: Assets/Scenes/menu_utama.unity
+    guid: fc7f03ad904f4d04b9b3a60a2285e38e
+  - enabled: 1
+    path: Assets/Scenes/level_menu.unity
+    guid: 8c93da2893d5c8445a364cde149000f4
+  - enabled: 1
+    path: Assets/Scenes/petunjuk.unity
+    guid: 11f3f21919278e14e8f3d01cf8bfa0fc
+  - enabled: 1
+    path: Assets/Scenes/profil.unity
+    guid: ed68523e7bc76b748b5a2864d5b9d022
+  - enabled: 1
+    path: Assets/Scenes/penutup.unity
+    guid: 8aa43e43168e79b4fb6356aaf0e73b66
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter1.unity
+    guid: 745c02dc7212d6747a1555333be0befe
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter2.unity
+    guid: c649afa17f9eea8438e134c9b05f07d0
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter2 - 1.unity
+    guid: 5861fde9169f81e468756155ed077512
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter3.unity
+    guid: 79ca0af17f3d8e64fa0a160a8fb103cd
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter3 - 1.unity
+    guid: 32c357b96962db24a8f43097e168cd62
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter4.unity
+    guid: 1e0305a97adfb1746a6d37336f9b6bb3
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter4 - 1.unity
+    guid: 1d4fb69a574fe9940903cf49f42bb3da
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter5.unity
+    guid: c982fd300204c9c4c80d6d90f46b847f
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter5 - 1.unity
+    guid: f4d4023f1ab569d478110ad1b31fae6a
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/chapter6.unity
+    guid: 3c098f079862b7848b76f7f9e7fb9730
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/materi1.unity
+    guid: 852c52be5d6ee814fbe2e3e6386899ec
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/materi2.unity
+    guid: 14da59f101a362f4595ab815ebb6167e
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/materi3.unity
+    guid: bfd572671e379b34abf4f359af5db3ed
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/materi4.unity
+    guid: 20f48fb689d07454b99a107ebd0ecb98
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/soal1.unity
+    guid: c1afcf3896900c64389729dd004a71ae
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/soal2.unity
+    guid: 79743274ff4533a4c86eafe7eeae781a
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/soal3.unity
+    guid: a3c4ad00c2aeac042bd20856e1dbb727
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/soal4.unity
+    guid: 7a2b3c0564a47994fad3809a20273c92
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/soal5.unity
+    guid: 39049c9225900d345b94a37574a0c143
+  - enabled: 1
+    path: Assets/Scenes/B.Indo/soal6.unity
+    guid: 150a375f8a37d334e8d07bd7518b4d20
+  - enabled: 1
+    path: Assets/Scenes/IPA/chapter21.unity
+    guid: 54852b76ea4dbcb4184dc103778de571
+  - enabled: 1
+    path: Assets/Scenes/IPA/chapter22.unity
+    guid: 4b001c0d86ca2ce49853debbc5723821
+  - enabled: 1
+    path: Assets/Scenes/IPA/chapter22 - 1.unity
+    guid: 47c7ae4b3e07040419cceca6e4675092
+  - enabled: 1
+    path: Assets/Scenes/IPA/chapter23.unity
+    guid: 1f940e28276f1bf42996d974f21e177b
+  - enabled: 1
+    path: Assets/Scenes/IPA/chapter23 - 1.unity
+    guid: e23e63ba85a2e244fa421304c138f6b8
+  - enabled: 1
+    path: Assets/Scenes/IPA/chapter24.unity
+    guid: fcdd819be37a4b242b52c5685fe05532
+  - enabled: 1
+    path: Assets/Scenes/IPA/chapter25.unity
+    guid: 73bf1208203957448b12c653e97e8c77
+  - enabled: 1
+    path: Assets/Scenes/IPA/chapter26.unity
+    guid: 022c91030fbf55d47b9124d9a516d0e5
+  - enabled: 1
+    path: Assets/Scenes/IPA/materi1.unity
+    guid: 803c2c526db96d549bded09ac6b7494e
+  - enabled: 1
+    path: Assets/Scenes/IPA/materi2.unity
+    guid: 93fb4b03c1ffe7449866191afcd82868
+  - enabled: 1
+    path: Assets/Scenes/IPA/soal1.unity
+    guid: cecf258f1acd9aa4c91c8081aa47a176
+  - enabled: 1
+    path: Assets/Scenes/IPA/soal2.unity
+    guid: d65ec70bfefffa846ac6c0465dc16a16
+  - enabled: 1
+    path: Assets/Scenes/IPA/soal3.unity
+    guid: a54587d612d2ca043bfd4e03fdf33ecf
+  - enabled: 1
+    path: Assets/Scenes/IPA/soal4.unity
+    guid: d5e35198f5f28b64ca13568644fa4262
+  - enabled: 1
+    path: Assets/Scenes/IPA/Soal5.unity
+    guid: a64abf94235d3db48b7de2745334e609
+  - enabled: 1
+    path: Assets/Scenes/IPA/Soal6.unity
+    guid: 489be00b471ec594384bcb212949a4a4
+  - enabled: 1
+    path: Assets/Scenes/kpkd.unity
+    guid: 06f7f4fc7aeec5c4995812893aea45c9
